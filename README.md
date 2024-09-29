@@ -13,7 +13,7 @@ Since GitHub can't actually store files bigger than 25MB, this place will just s
 | ---------- | -------------- |
 | **No. of Images** | 24 (1/hr) 
 | **Source** | Genshin Impact
-| **Download** | https://files.catbox.moe/cgjql2.heic
+| **Download** | https://files.catbox.moe/cgjql2.heic (101,6 MB)
 
 *This file is tagged to be able to be used as a dynamic wallpaper in macOS 10.14+*
 
