@@ -16,7 +16,8 @@ Since GitHub can't actually store files bigger than 25MB, this place will just s
 | ---------- | -------------- |
 | **No. of Images** | 24 (1/hr) 
 | **Source** | Genshin Impact
-| **Download** | https://files.catbox.moe/cgjql2.heic (101,6 MB)
+| **Download** | [Genshin Impact - The Chasm_OPTIMISED.heic](Optimised/Genshin%20Impact%20-%20The%20Chasm_OPTIMISED.heic) (7,9 MB)
+| | https://files.catbox.moe/cgjql2.heic (101,6 MB) [RAW]
 
 
 ### Kuuvahki Experimental Design Bureau (Dynamic ☀️)
@@ -27,10 +28,11 @@ Since GitHub can't actually store files bigger than 25MB, this place will just s
 | ---------- | -------------- |
 | **No. of Images** | 24 (1/hr) 
 | **Source** | Genshin Impact
-| **Download** | https://files.catbox.moe/jmok1a.heic (131 MB)
+| **Download** | [Genshin Impact – Kuuvahki Experimental Design Bureau_OPTIMISED.heic](Optimised/Genshin%20Impact%20–%20Kuuvahki%20Experimental%20Design%20Bureau_OPTIMISED.heic) (5,7 MB)
+| | https://files.catbox.moe/jmok1a.heic (131 MB) [RAW]
 
 
-### Sangonomiya Shrine (Dynamic ☀️🌙)
+### Sangonomiya Shrine (Dynamic ☀️)
 
 <img src="https://github.com/user-attachments/assets/898c05e3-24e2-48ec-9de5-c2fcf50a3af1" alt="Sangonomiya Shrine Wallpaper Preview" width="480" />
 
@@ -38,11 +40,11 @@ Since GitHub can't actually store files bigger than 25MB, this place will just s
 | ---------- | -------------- |
 | **No. of Images** | 24 (1/hr) 
 | **Source** | Genshin Impact
-| **Download** | https://files.catbox.moe/vzg4y0.heic (144,3 MB)
-| |
+| **Download** | [Genshin Impact - Sangonomiya Shrine_OPTIMISED.heic](Optimised/Genshin%20Impact%20-%20Sangonomiya%20Shrine_OPTIMISED.heic) (7,8 MB)
+| | https://files.catbox.moe/vzg4y0.heic (144,3 MB) [RAW]
 
 
-### King Deshret's Mausoleum (Dynamic ☀️🌙)
+### King Deshret's Mausoleum (Dynamic ☀️)
 
 <img src="https://github.com/user-attachments/assets/364fb1a8-12bf-4ad7-b5ab-d5e7ea0a9915" alt="King Deshret's Mausoleum Wallpaper Preview" width="480" />
 
@@ -50,7 +52,8 @@ Since GitHub can't actually store files bigger than 25MB, this place will just s
 | ---------- | -------------- |
 | **No. of Images** | 24 (1/hr) 
 | **Source** | Genshin Impact
-| **Download** | https://files.catbox.moe/3kke6r.heic (133,6 MB)
+| **Download** | [Genshin Impact - Desert Pyramid_OPTIMISED.heic](Optimised/Genshin%20Impact%20-%20Desert%20Pyramid_OPTIMISED.heic) (5,7 MB)
+| | https://files.catbox.moe/3kke6r.heic (133,6 MB) [RAW]
 
 
 *Created using [Equinox](https://github.com/rlxone/Equinox), a cool bit of open source software for making macOS dynamic wallpapers.*
@@ -61,7 +64,7 @@ congratulations, you're reading the source code
 frames command:
   % magick "$(ls -1 *.heic | head -1)"\[0--1\] "frame_%02d.png"
 
-gif command:
+gif preview command:
   % magick -dispose none -delay 30 frame_*.png -coalesce -resize x540 -colors 256 -dither FloydSteinberg -layers optimize sangonomiya_shrine.gif
 
 -->
